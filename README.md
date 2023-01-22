@@ -7,3 +7,5 @@ The Odin Project
 
 Demonstrating the basic understatement of HTML 
 Webpages, Links, List, Images and etc. 
+
+This project is to create a webpage with links to create recipes for food. Basically a recipes book. 
